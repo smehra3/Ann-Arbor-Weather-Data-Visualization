@@ -1,4 +1,4 @@
-# Identifying-Misleading-Information-in-Data-Visual
+# Ann Arbor Weather Data Visualization
 
 Used real world weather data to display the minimum and maximum temperature for a range of dates using line graphs. Additionally, demonstrated procedure of composite charts, by overlaying a scatter plot of record breaking data for a given year.
 
@@ -19,6 +19,3 @@ Variables:
 3. Removed leap days (i.e. February 29th) from the dataset for the purpose of this visualization.
 4. Used color scheme that takes into account accessibility for people who are not as perceptive to colors as others!
 5. Added hovering over the points in the plot, to allow one to see the exact reading being pointed over on the bottom right.
-
-The data is from near **Ann Arbor, Michigan, United States**.
-
