@@ -17,7 +17,8 @@ Variables:
 1. Plotted Line graph of the record high and record low temperatures by day of the year over the period 2005-2014. The area between the record high and record low temperatures for each day is shaded.
 2. Overlaid a scatter of the 2015 data for any points (highs and lows) for which the ten year record (2005-2014) record high or record low was broken in 2015.
 3. Removed leap days (i.e. February 29th) from the dataset for the purpose of this visualization.
-4. Made the visualization color-blindness friendly!
+4. Used color scheme that takes into account accessibility for people who are not as perceptive to colors as others!
+5. Added hovering over the points in the plot, to allow one to see the exact reading being pointed over on the bottom right.
 
 The data is from near **Ann Arbor, Michigan, United States**.
 
